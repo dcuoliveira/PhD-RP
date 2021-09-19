@@ -51,7 +51,7 @@ This is my reading list to organize my ideas to write my PhD research proposal.
 
 #### b) Bayesian LiNGAM
 
-> [Hoyer, P. Hyttinen, A. (2012). Bayesian Discovery of Linear Acyclic Causal Models. UAI.](https://arxiv.org/abs/1205.2641)
+> [Hoyer, P. Hyttinen, A. (2009). Bayesian Discovery of Linear Acyclic Causal Models. UAI.](https://arxiv.org/abs/1205.2641)
 
 #### b) ICA Lv-LiNGAM
 
