@@ -1,6 +1,9 @@
 # PhD-RP
 This is my reading list to organize my ideas to write my PhD research proposal.
 
+ 
+# Causal Discovery
+
 ## 1. Causal Discovery and Cross sectional data
 
 ### 1. Review 
@@ -45,6 +48,10 @@ This is my reading list to organize my ideas to write my PhD research proposal.
 #### a) ICA LiNGAM
 
 > [Shimizu, S. Hoyer, P. Hyvärinen, A. Kerminen, A. (2006). A linear non-Gaussian acyclic model for causal discovery. J. Mach. Learn. Res.](https://www.jmlr.org/papers/v7/shimizu06a.html)
+
+#### b) Bayesian LiNGAM
+
+> [Hoyer, P. Hyttinen, A. (2012). Bayesian Discovery of Linear Acyclic Causal Models. UAI.](https://arxiv.org/abs/1205.2641)
 
 #### b) ICA Lv-LiNGAM
 
@@ -98,6 +105,8 @@ This is my reading list to organize my ideas to write my PhD research proposal.
 > [Runge, J. (2018). Causal network reconstruction from time series: From theoretical assumptions to practical estimation. Chaos.](https://aip.scitation.org/doi/10.1063/1.5025050)
 
 > [Gerhardus, A. Runge, J. (2021). High-recall causal discovery for autocorrelated time series with latent confounders. Conference on Neural Information Processing Systems.](https://proceedings.neurips.cc/paper/2020/file/94e70705efae423efda1088614128d0b-Paper.pdf)
+
+# Out-of-distribution Generalization
 
 
 
